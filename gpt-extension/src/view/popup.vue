@@ -1,6 +1,6 @@
 <template>
   <div class="main_app">
-    <h1> ChatGpt Email Extension (DEMO VERSION)</h1>
+    <h2> ChatGpt Email Extension (DEMO) </h2>
     <p>You have to log in, in the ChatGpt website for it to work</p>
     <p>If AI button dosent work reload</p>
   </div>
@@ -26,6 +26,6 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 15px;
-  min-width: 60vh;
+  min-width: 250px;
 }
 </style>
